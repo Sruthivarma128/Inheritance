@@ -1,3 +1,4 @@
+#This is a salary class
 class salary:
     def __init__(self, pay, bonus):
         self.pay=pay
