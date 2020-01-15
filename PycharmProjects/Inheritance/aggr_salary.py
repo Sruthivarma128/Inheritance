@@ -1,3 +1,4 @@
+#Program to calculate the annual salry of an employee
 class aggr_salary:
     def __init__(self, pay, bonus):
         self.pay=pay
