@@ -1,4 +1,4 @@
-# Python Strings - single line comments
+# Python Strings
 #first Hello World program
 """Multiple line comments
 Python Strings"""
